@@ -19,7 +19,6 @@ void setup() {
  
   lcd.init();
   lcd.backlight();
-  lcd.print("123456");
  
   Serial.begin(9600);
 }
